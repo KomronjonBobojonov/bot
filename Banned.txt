@@ -1,0 +1,6 @@
+pytelegrambotapi
+requests
+flask
+flask_sslify
+pillow
+datetime
