@@ -6,14 +6,14 @@ from PIL import Image, ImageFont, ImageDraw
 from datetime import datetime
 from time import sleep
 
-Token = '5062082223:AAEwe4y1KbyhDiWDGbfwEQ_agdph77SgDik'
+Token = '0000000000:000000000000000000000000000000'
 bot = telebot.TeleBot(Token) # , threaded = False
 # bot.remove_webhook()
 # sleep(1)
 # bot.set_webhook(url = f"https://Putin.pythonanywhere.com/{Token}")
 
-logs_id = -1001671762253
-admins = [820393036]
+logs_id = -000000000000
+admins = [000000000000]
 
 app = Flask(__name__)
 sslify = SSLify(app)
